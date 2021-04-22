@@ -1,6 +1,6 @@
 package week1.assignments;
 
-public class ReverseEvenIndex {
+public class ReverseEvenWords {
 
 	public static void main(String[] args) {
 		
